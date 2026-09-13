@@ -1,9 +1,7 @@
-# Module Two IDE Features
+Using an IDE was helpful when I was working on my Python program. I wrote and edited my code in GitHub and then used PyCharm to run and test it. It made it easier to check my work and find problems with my code.
 
-Using an integrated development environment (IDE) made writing my Python program easier because I could write, run, and test my code in the same place. This saved time because I could make a change and quickly run the program to see if it worked correctly.
+One feature I found helpful was error highlighting. PyCharm would point out problems in my code while I was working on it. This made it easier to notice mistakes and figure out what I needed to fix.
 
-One feature I found helpful was syntax highlighting. The IDE uses different colors for different parts of the code, such as commands and strings. This makes the code easier to read and helps me notice mistakes more easily.
+Another feature I found useful was code suggestions. PyCharm can suggest parts of the code while you are typing, which can save time. It also helps make sure commands and other parts of the code are written correctly.
 
-Another useful feature was being able to run and debug the program directly in the IDE. I could enter test information, look at the output, and find problems when the program did not work as expected. Having these tools in the same program made testing and fixing the code easier.
-
-A third helpful feature was code formatting and organization. Proper indentation, spacing, and clear variable names make the code easier to follow. These features make it easier to write and maintain a Python program.
+Overall, using an IDE made working with Python easier because it gave me tools that helped me catch mistakes and write code more efficiently. I think these features will be useful as I work on more Python programs.
