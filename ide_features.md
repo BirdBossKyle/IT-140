@@ -1,13 +1,9 @@
 # Module Two IDE Features
 
-Using an integrated development environment (IDE) made writing the Python program easier because the IDE provides tools for writing, running, and testing code in one place. This was useful because I could make changes to the program and immediately run it to see whether it produced the expected results.
+Using an integrated development environment (IDE) made writing my Python program easier because I could write, run, and test my code in the same place. This saved time because I could make a change and quickly run the program to see if it worked correctly.
 
-One helpful feature was syntax highlighting. Different parts of the Python code are displayed in different colors, which makes commands, strings, and other elements easier to recognize. This can make the code easier to read and can help identify mistakes while programming.
+One feature I found helpful was syntax highlighting. The IDE uses different colors for different parts of the code, such as commands and strings. This makes the code easier to read and helps me notice mistakes more easily.
 
-Another useful feature was the ability to run and debug the program directly in the IDE. I could enter test information, see the program's output, and identify problems when the results were not correct. This makes debugging more convenient because the code can be tested without switching to a separate program.
+Another useful feature was being able to run and debug the program directly in the IDE. I could enter test information, look at the output, and find problems when the program did not work as expected. Having these tools in the same program made testing and fixing the code easier.
 
-A third helpful feature was the editor's formatting and code organization. Proper indentation, spacing, and readable variable names make the program easier to understand and maintain. Overall, these IDE features make programming more efficient by helping programmers write, test, and correct code in the same environment.
-
-## AI Usage Acknowledgment
-
-I used generative AI to help organize and draft portions of this assignment. I reviewed the generated content and used it as support while completing the assignment.
+A third helpful feature was code formatting and organization. Proper indentation, spacing, and clear variable names make the code easier to follow. These features make it easier to write and maintain a Python program.
