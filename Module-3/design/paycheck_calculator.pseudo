@@ -17,7 +17,3 @@ ENDIF
 PUT weekly_pay
 
 END paycheck_calculator
-
-# === References ===
-# OpenAI. ChatGPT. Used for assistance drafting and checking the pseudocode
-# and flowchart logic for this assignment. Accessed September 27, 2026.
