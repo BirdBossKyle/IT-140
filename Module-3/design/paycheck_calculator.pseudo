@@ -1,0 +1,23 @@
+# IT 140 Module Three Assignment
+# Paycheck Calculator Pseudocode
+#
+# This design calculates a weekly paycheck using the required pay rules:
+# first 40 hours at $20 per hour and hours above 40 at $30 per hour.
+
+START paycheck_calculator
+
+GET hours_worked
+
+IF hours_worked <= 40
+    LET weekly_pay = hours_worked * 20
+ELSE
+    LET weekly_pay = (40 * 20) + ((hours_worked - 40) * 30)
+ENDIF
+
+PUT weekly_pay
+
+END paycheck_calculator
+
+# === References ===
+# OpenAI. ChatGPT. Used for assistance drafting and checking the pseudocode
+# and flowchart logic for this assignment. Accessed September 27, 2026.
